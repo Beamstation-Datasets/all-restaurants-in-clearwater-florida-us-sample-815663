@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7307ce3d-9101-4495-9f10-235bef4ec4ff",
+  "export_job_id": "cab9614a-0830-4784-8654-928575c7b992",
   "id_short": 815663,
-  "published_at": "2026-04-28T19:28:57Z",
+  "published_at": "2026-05-06T19:16:47Z",
   "repo_name": "all-restaurants-in-clearwater-florida-us-sample-815663",
   "sample_asset_name": "beamstation_815663_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/815663/beamstation_815663_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "38f3f5957b5594d350d4fa5cefbe9016b8f714784453307566d5c6aaef9c67b7",
-  "sample_size_bytes": 192273,
-  "total_records": 481
+  "sample_records": 51,
+  "sample_sha256": "b970c05e6c5fccb66eaefe904d10c6e63a6047d6d50f4c76d673fd78c59e7d12",
+  "sample_size_bytes": 162993,
+  "total_records": 513
 }
