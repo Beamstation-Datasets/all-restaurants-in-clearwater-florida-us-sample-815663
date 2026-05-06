@@ -1,6 +1,6 @@
 # All Restaurants in Clearwater, Florida, US
 
-> Free BeamStation sample export with 48 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `815663` |
 | Location | Clearwater |
 | Category | Restaurants |
-| Full dataset size | 481 records |
-| Free sample size | 48 records (9.98%) |
-| Last export | 2026-04-28T15:41:22.544983+00:00 |
+| Full dataset size | 513 records |
+| Free sample size | 51 records (9.94%) |
+| Last export | 2026-05-06T10:17:22.382902+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-clearwater-florida-us-sample-815663/releases/download/sample-latest/beamstation_815663_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
